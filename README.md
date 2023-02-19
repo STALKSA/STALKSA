@@ -45,7 +45,7 @@
 
 ---
 
-### :writing_hand: Посты :
+### :writing_hand: Posts :
 
 <!-- BLOG-POST-LIST:START -->
 
