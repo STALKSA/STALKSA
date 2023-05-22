@@ -3,7 +3,7 @@
 </div>
 <div id="badge" align="center">
  <img src="https://komarev.com/ghpvc/?username=STALKSA&style=flat-square&color=blue" alt=""/>
-   <a href="@STALK_SA">
+   <a href="https://t.me/STALK_SA">
      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram Badge"/>
   </a>
   </div>
